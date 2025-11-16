@@ -24,6 +24,3 @@ The model takes an input image and instantly predicts the **correct sign label**
 - **PyTorch** – model training/inference  
 - **LabelImg** – annotation & dataset handling  
 
----
-
-# 📁 Project Structure  
